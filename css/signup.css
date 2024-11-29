@@ -1,0 +1,46 @@
+body
+{
+    background-color: #24353F;
+}
+
+h1
+{
+    color: #17A2B8;
+}
+.w-60
+{
+    width: 60%;
+}
+
+#signup
+{
+    color: #17A2B8;
+    background-color: transparent;
+    border: #17A2B8 solid 2px;
+    transition: 0.3s;
+}
+#signup:hover
+{
+    background-color:#17A2B8 ;
+    color: white;
+}
+input
+{
+    background-color: #24353F !important;
+    color: white !important;
+}
+
+#signin
+{
+    background-color: transparent !important;
+    color: white;
+}
+
+#signin:hover
+{
+    text-decoration: underline;
+}
+
+input::placeholder {
+    color: white !important;
+}

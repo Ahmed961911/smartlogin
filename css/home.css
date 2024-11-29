@@ -1,0 +1,32 @@
+body
+{
+    background-color: #24353F;
+}
+
+h1
+{
+    color: #17A2B8;
+}
+.w-60
+{
+    width: 60%;
+}
+
+#welcomeMsg
+{
+    position: relative;
+    top: 250px;
+}
+
+.mybtn
+{
+    border: #FFC107 solid 1px;
+    transition: 0.3s;
+    text-align: center;
+}
+
+.mybtn:hover
+{
+    background-color: #FFC107;
+    color: white;
+}
